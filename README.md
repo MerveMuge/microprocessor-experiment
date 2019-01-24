@@ -1,4 +1,4 @@
-# microprocessor-lab-experiement
+# microprocessor-lab-experiment
 Undergraduate
 
 Hi!
